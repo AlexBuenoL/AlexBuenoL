@@ -1,6 +1,6 @@
 ### Welcome!
-I am a Computer Science student at Universitat Politècnica de Catalunya - FIB  
-Here you can find some personal and academic projects
+Computer Science student at Universitat Politècnica de Catalunya - FIB  
+Here you can find some personal and academic projects such as compilers, keyboards generator using AI algorithms, Reinforcement learning algorithms, C++ and Java little projects, ...
 
 <!--
 **AlexBuenoL/AlexBuenoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
