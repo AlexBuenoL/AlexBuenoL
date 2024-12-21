@@ -1,6 +1,6 @@
 ### Welcome!
-Computer Science student at Universitat Politècnica de Catalunya - FIB  
-Here you can find some personal and academic projects such as C++ applications, Web applications in Java, AI models, and some other projects.
+Software Engineer and final-year Computer Science student specializing in Machine Learning at Universitat Politècnica de Catalunya - FIB  
+Here you can find some personal and academic projects such as Machine Learning models, Web applications in Java and Python using API REST, C++ applications, and some other projects.
 
 <!--
 **AlexBuenoL/AlexBuenoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
