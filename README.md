@@ -1,5 +1,5 @@
 ### Welcome!
-Software Engineer and final-year Computer Science student specializing in Machine Learning at Universitat Politècnica de Catalunya - FIB  
+Software / ML Engineer and final-year Computer Science student specializing in Machine Learning at Universitat Politècnica de Catalunya - FIB  
 Here you can find some personal and academic projects such as Machine Learning models, Web applications in Java and Python using API REST, C++ applications, and some other projects.
 
 <!--
