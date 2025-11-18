@@ -1,6 +1,7 @@
 ### Welcome!
-Software / ML Engineer and final-year Computer Science student specializing in Machine Learning at Universitat Politècnica de Catalunya - FIB  
-Here you can find some personal and academic projects such as Machine Learning models, Web applications in Java and Python using API REST, C++ applications, and some other projects.
+Student of **Master's Degree in Data Science** and graduated in **Computer Science** at UPC. Currently working as a **Python Software Engineer**. 
+
+My goal is to apply my knowledge in Machine Learning and Deep Learning, together with multimodal data handling to solve complex problems.
 
 <!--
 **AlexBuenoL/AlexBuenoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
