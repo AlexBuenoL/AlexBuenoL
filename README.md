@@ -1,19 +1,26 @@
-### Welcome!
-Student of **Master's Degree in Data Science** and graduated in **Computer Science** at UPC. Currently working as a **Python Software Engineer**. 
+# Alex Bueno | Machine Learning Engineer
 
-My goal is to apply my knowledge in Machine Learning and Deep Learning, together with multimodal data handling to solve complex problems.
+### 🚀 About me
 
-<!--
-**AlexBuenoL/AlexBuenoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduated in **Computer Science** and **MSc in Data Science student at UPC**. My projects combine a hybrid approach of **Machine Learning & Deep Learning** solutions with robust **Software Engineering** practices. 
 
-Here are some ideas to get you started:
+- 🔭 **Currently working in:** Optimization of Multimodal Transformer model (LLM/ViT) using PEFT techniques (LoRA/QLoRA).
+- 🧠 **Specialization areas:** Machine Learning, Deep Learning, Fine-Tuning, RAG, Computer Vision, MLOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technological Stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Deep Learning** | PyTorch, Hugging Face (Transformers, PEFT), RAG, MLP, CLIP |
+| **Machine Learning** | Scikit-learn, LightGBM, XGBoost, Model Tuning |
+| **Data Engineering** | SQL, ETL Pipelines, Docker, MinIO, ChromaDB (Vector DB) |
+| **Core Engineering** | Python, C++, Java, Linux, RESTful APIs, Git |
+
+---
+
+### 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/alex-bueno-leon](https://www.linkedin.com/in/alex-bueno-leon)
+- **Email:** [abuenoleon@gmail.com](mailto:abuenoleon@gmail.com)
